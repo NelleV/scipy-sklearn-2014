@@ -14,9 +14,11 @@ prediction.
 More and more, companies outsource this problem to data analysists (and geeks)
 in the form of challenges. In this talk, we will cover all necessary blocks to
 participate in such a challenge using scikit learn, from extracting features
-to model selection and validation.
+to model selection and validation. The last 20 minutes will be devoted to
+participating in a small challenge amongst attendees.
 
-Attendees are expected to have basic knowledge of Python, Numpy and matplotlib.
+
+We expect attendees to have basic knowledge of Python, Numpy and matplotlib.
 
 
 Outline
