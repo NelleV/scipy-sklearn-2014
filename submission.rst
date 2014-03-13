@@ -16,4 +16,4 @@ in the form of challenges. In this talk, we will cover all necessary blocks to
 participate in such a challenge using scikit learn, from extracting features
 to model selection and validation.
 
-
+Attendess are expected to have basic knowledge of Python and Numpy.
