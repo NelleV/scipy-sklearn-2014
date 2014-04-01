@@ -25,8 +25,26 @@ including the use of Numpy and Matplotlib.
 Outline
 -------
 
-- Installing and running scikit-learn
-- Representation of data in Machine Learning
-- Basic principles of Machine Learning & the scikit-learn interface
-- Model selection and validation
-- Project: participating to a small challenge
+- Installing and running scikit-learn (0:00 - 0:15)
+- Representation of data in Machine Learning (0:15 - 1:00)
+
+  - Downloading data within scikit-learn, data structure and visualization
+  - Extracting features from a text corpus
+  - Exercise: vectorization of tweets.
+  
+- Basic principles of Machine Learning & the scikit-learn interface (1:00 - 2:00)
+
+  - Classification and regression.
+  - Unsupervised Learning: Clustering & Dimensionality Reduction
+  - Example: PCA/clustering on the STS-Test dataset (?)
+  - Exercise: Linear regression on the STS-Test dataset (?)
+
+
+- Model selection and validation (2:15 - 3:00)
+
+  - Measuring the goodness of fit using cross validation
+  - Using model selection to avoid overfitting.
+  - Exercise: Regression on the STS-Test dataset (?)
+
+- Project: participating to a small challenge (3:00 - 4:00)
+  - Sentiment analysis on the STS-Test dataset
