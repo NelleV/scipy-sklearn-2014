@@ -38,7 +38,7 @@ Outline
     - Classification and regression.
     - Unsupervised Learning: Clustering & Dimensionality Reduction
     - Example: PCA/clustering on the STS-Test dataset
-    - Exercise: Linear regression on the STS-Test dataset
+    - Exercise: Linear model on the STS-Test dataset
 
 
 - Model selection and validation (2:15 - 3:00)
